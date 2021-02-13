@@ -21,7 +21,9 @@
 <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"></img>
 
+## Some extra informations: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusResende)](https://github.com/ViniciusResende/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusResende&show_icons=true&theme=radical)
 <!--
 **ViniciusResende/ViniciusResende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
