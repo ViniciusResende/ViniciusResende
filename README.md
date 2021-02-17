@@ -1,7 +1,7 @@
 ### Hello 👋
 ## I'm Vinícius Alves
  - I live in Brazil, Minas Gerais :small_red_triangle:
- - I've been learning more about JavaScript, React, ReactNative and NodeJs :rocket::electron:
+ - I've been learning more about JavaScript, TypeScript, React, ReactNative and NodeJs :rocket::electron:
  - I've concluded my technician course in IT by the Federal University of Viçosa(UFV) :man_student::computer:
  - I've started my graduation course in System Analysis by the Pontifical Catholic University of Minas Gerais(PUC-MG) :desktop_computer::books:
  
