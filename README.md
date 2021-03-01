@@ -10,7 +10,7 @@
 <img align="center" alt="vinicius-linkedin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/viniziu.alves/" target="_blank">
-<img align="center" alt="vinicius-instagram" height="40" width="50" src="https://image.flaticon.com/icons/png/512/174/174855.png" style="max-width:100%;">
+<img align="center" alt="vinicius-instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/512/174/174855.png" style="max-width:100%;">
 </a>
 
 ## My Skills:
