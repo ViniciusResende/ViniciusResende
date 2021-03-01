@@ -10,7 +10,7 @@
 <img align="center" alt="vinicius-linkedin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/viniziu.alves/" target="_blank">
-<img align="center" alt="vinicius-instagram" height="40" width="50" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1613215948~hmac=1b867a0a6c55bf64be2703939c94a34e" style="max-width:100%;">
+<img align="center" alt="vinicius-instagram" height="40" width="50" src="https://image.flaticon.com/icons/png/512/174/174855.png" style="max-width:100%;">
 </a>
 
 ## My Skills:
