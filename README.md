@@ -14,13 +14,27 @@
 </a>
 
 ## My Skills:
+<a href="https://www.w3.org/html/" target="_blank">
 <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;"></img>
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
 <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;"></img>
+</a>
+<a href="https://www.javascript.com/" target="_blank">
 <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>
+</a>
+<a href="https://reactjs.org/" target="_blank">
 <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
 <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img>
+ </a>
+<a href="https://git-scm.com/" target="_blank">
 <img align="center" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"></img>
-<img align="center" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width:100%;"></img>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width:100%;"></img>
+</a>
 
 ## Some extra informations: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusResende)](https://github.com/ViniciusResende/github-readme-stats)
