@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/viniciusalvesdefaria/" target="_blank">
 <img align="center" alt="vinicius-linkedin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
-<a href="https://www.instagram.com/viniziu.alves/" target="_blank">
+<a href="https://www.instagram.com/viniciusfariaresende/" target="_blank">
 <img align="center" alt="vinicius-instagram" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" style="max-width:100%;">
 </a>
 
