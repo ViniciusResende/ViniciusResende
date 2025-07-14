@@ -3,7 +3,7 @@
  - I live in Brazil, Minas Gerais :small_red_triangle:
  - I've been learning more about JavaScript, TypeScript, React, ReactNative and NodeJs :rocket::electron:
  - I've concluded my technician course in IT by the Federal University of Viçosa(UFV) :man_student::computer:
- - I'm in the last semester of my bachelors degree in System Analysis by the Federal University of Minas Gerais(UFMG) :desktop_computer::books:
+ - I've concluded my bachelors degree in System Analysis by the Federal University of Minas Gerais(UFMG) :desktop_computer::books:
  
 ## My connections:
 <a href="https://www.linkedin.com/in/viniciusalvesdefaria/" target="_blank">
